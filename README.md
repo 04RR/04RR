@@ -14,3 +14,6 @@
 ---
 
 <img align="left" alt="Rohit's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=04RR&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/12RohitRajesh
+[linkedin]: https://www.linkedin.com/in/rohit-rajesh-179769191/
