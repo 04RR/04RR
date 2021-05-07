@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey, I'm Rohit Rajesh.
 
-<!--
-**04RR/04RR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a sophomore at BITS PILANI.
+- I'm currently working on projects based on Computer Vision and Application of Deep Learning in Biological Sciences.    
+- I’m looking to collaborate with other researchers and creators
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="12RohitRajesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rohit-rajesh-179769191 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+
+<img align="left" alt="Rohit's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=04RR&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/12RohitRajesh
+[instagram]: https://www.instagram.com/rohit._.rajesh/
+[linkedin]: https://www.linkedin.com/in/rohit-rajesh-179769191/
