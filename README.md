@@ -1,6 +1,6 @@
 ### Hey, I'm Rohit Rajesh.
 
-## I am a finak year student at BITS PILANI.
+## I am a final year student at BITS PILANI.
 - I'm currently working on projects based on Computer Vision and Application of Deep Learning in Biological Sciences.    
 - I’m looking to collaborate with other researchers and creators
 
